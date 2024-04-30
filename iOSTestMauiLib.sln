@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iOSTestMauiLib", "iOSTestMauiLib.csproj", "{32CCD0C6-439B-48DA-9227-8545418FDE36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iOS.Test.Binding", "..\..\StudioProjects\xamarin_example\RTO_MauiBlazor\iOS.Test.Binding\iOS.Test.Binding.csproj", "{36035799-1015-425A-8AF5-BCB105D238EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32CCD0C6-439B-48DA-9227-8545418FDE36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32CCD0C6-439B-48DA-9227-8545418FDE36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32CCD0C6-439B-48DA-9227-8545418FDE36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32CCD0C6-439B-48DA-9227-8545418FDE36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36035799-1015-425A-8AF5-BCB105D238EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36035799-1015-425A-8AF5-BCB105D238EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36035799-1015-425A-8AF5-BCB105D238EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36035799-1015-425A-8AF5-BCB105D238EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBA8376C-97F0-43BC-B07E-A74E6F53D372}
+	EndGlobalSection
+EndGlobal
